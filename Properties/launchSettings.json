@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppAudioDeviceSwitcher": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}

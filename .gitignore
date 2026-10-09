@@ -1,0 +1,49 @@
+
+
+# IDE and local agent state
+.vs/
+.cr/
+.continue/
+.agents/
+.codex/
+.idea/
+.dotnet-home/
+*.user
+*.suo
+*.vbw
+*.scc
+*.gcs~
+# Generated output
+[Bb]in/
+[Oo]bj/
+publish/
+artifacts/
+Backup/
+TestOutput/
+packages/
+node_modules/
+__pycache__/
+*.log
+*.exe
+*.dll
+*.pdb
+*.msix
+*.appx
+*.zip
+*.7z
+*.bak
+*.tmp
+_UpgradeReport*
+desktop.ini
+# Local signing material and configuration
+*.pfx
+*.p12
+*.pem
+*.key
+*.cer
+.env
+.env.*
+agent.txt
+
+# Third-party reference checkout
+EarTrumpet-master/
